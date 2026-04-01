@@ -12,3 +12,6 @@ This project focuses on performing a simple linear regression analysis to predic
 * **Pandas & NumPy** (Data Manipulation)
 * **Scikit-learn** (Machine Learning: Linear Regression, Training and Testing sets)
 * **Matplotlib** (Visualisation)
+
+## Visuals
+![Graph](Regression_Analysis_Graph.png)
